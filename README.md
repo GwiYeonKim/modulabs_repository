@@ -13,4 +13,4 @@
 - Main Quest #6.캐글 주택 가격_ 고급 회귀 : MainQuest06_HousePrice.ipynb
 
 ### 05. TimeSeries
-- 미니 프로젝트.시계열 분류 : 시계열분석_2_미니프로젝트_시계열분류.ipynb
+- 미니 프로젝트.시계열 분류 : TimeSeries_miniproject.ipynb
