@@ -1,9 +1,11 @@
-# Modulabs Main Quest Files Upload
-## CustomerSegmentation 
-### Main Quest01
-## DataCleaning 
+# Modulabs Data Sceientist Files Upload
+## 01. SQL
+### Main Quest01. CustomerSegmentation 
+
+## 02. DataCleaning 
 ### 비정제데이터 체험하기 실습
-## Statistics 
+
+## 03.Statistics 
 ### 기초 통계 Main Quest #3  : AARRR 분석 및 통계 분석
   - AARRR 분석
 
@@ -29,3 +31,7 @@
     - 독립 표본 : 서로 독립적인 두 개 이상의 집단에서 데이터를 수집, 각 집단 간의 차이를 분석함. 각 집단은 서로 영향을 미치지 않음.
     - 대응 표본 : 동일한 집단에서 두 번의 측정을 수행하거나, 서로 짝을 이루는 두 집단에서 데이터를 수집하여 차이를 분석함. 각 데이터 쌍은 서로 연관성이 있음.
   - 통계적 검정 결과를 해석하고, 이를 바탕으로 데이터에 숨겨진 의미를 비즈니스 관점에서 도출하는 방법을 익혔다.
+
+## 04. Machine Learning
+
+## 05. Time Series
