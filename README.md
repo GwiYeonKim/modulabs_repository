@@ -10,7 +10,7 @@
 - Main Quest #4.통계 기초 : Statistics_Quest04.ipynb
 
 ### 04. MachineLearning
-- Main Quest #6.캐글 주택 가격_ 고급 회귀 : 데싸4기_회귀_집값예측_김귀연.ipynb
+- Main Quest #6.캐글 주택 가격_ 고급 회귀 : MainQuest06_HousePrice.ipynb
 
 ### 05. TimeSeries
 - 미니 프로젝트.시계열 분류 : 시계열분석_2_미니프로젝트_시계열분류.ipynb
