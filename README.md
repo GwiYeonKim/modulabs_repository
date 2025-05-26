@@ -14,3 +14,4 @@
 
 ### 05. TimeSeries
 - 미니 프로젝트.시계열 분류 : TimeSeries_miniproject.ipynb
+- 미니 프로젝트.ARIMA.ARCH : TimeSeries_3_2_Miniproject.ipynb
