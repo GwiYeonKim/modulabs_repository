@@ -16,3 +16,6 @@
 - 미니 프로젝트.시계열 분류 : TimeSeries_miniproject.ipynb
 - 미니 프로젝트.ARIMA.ARCH : TimeSeries_3_2_Miniproject.ipynb
 - Main Quest #7.시계열 : TimeSeries_5_MainQuest07.ipynb
+
+### 0.6 DeepLearning
+- 인공지능과 가위바위보하기 : Rock_scissors_paper.ipynb
