@@ -19,5 +19,8 @@
 
 ### 06. DeepLearning
 - 인공지능과 가위바위보하기 : Rock_scissors_paper.ipynb
-- 미니프로젝트 : 06.Deeplearning/DeepLearning_MiniProject.ipynb
-
+- 딥러닝 역사, 텐서, 딥러닝 구조와 모델 : DeepLearning_한번에끝내기01.ipynb
+- 모델 저장과 콜백, 모델 학습 기술, 모델 크기 조절과 규제(L1,L2,드롭아웃): DeepLearning_한번에끝내기02.ipynb
+- 가중치 초기화와 배치 정규화: DeepLearning_한번에끝내기03.ipynb
+- Fashion MNIST 모델 실습: DeepLearning_한번에끝내기04.ipynb
+- 미니프로젝트 : DeepLearning_MiniProject.ipynb
