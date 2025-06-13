@@ -23,4 +23,5 @@
 - 모델 저장과 콜백, 모델 학습 기술, 모델 크기 조절과 규제(L1,L2,드롭아웃): DeepLearning_한번에끝내기02.ipynb
 - 가중치 초기화와 배치 정규화: DeepLearning_한번에끝내기03.ipynb
 - Fashion MNIST 모델 실습: DeepLearning_한번에끝내기04.ipynb
-- 미니프로젝트 : DeepLearning_MiniProject.ipynb
+- 미니프로젝트_DeepLearning 데이터 분석 구조파악하기(3개 예제) : DeepLearning_MiniProject.ipynb
+- 미니프로젝트_단어사전 만들기 : DeepLearning_WordDictionary
