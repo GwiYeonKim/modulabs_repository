@@ -25,3 +25,4 @@
 - Fashion MNIST 모델 실습: DeepLearning_한번에끝내기04.ipynb
 - 미니프로젝트_DeepLearning 데이터 분석 구조파악하기(3개 예제) : DeepLearning_MiniProject.ipynb
 - 미니프로젝트_단어사전 만들기 : DeepLearning_WordDictionary
+- 텍스트 벡터화 (DTM, TF-IDF, LSA, LDA, soynlp): Deeplearning_TextVector.ipynb
