@@ -28,4 +28,5 @@
 - 텍스트 벡터화 (DTM, TF-IDF, LSA, LDA, soynlp): Deeplearning_TextVector.ipynb
 - 워드 임베딩(카운트기반-DTM,TF-IDF, 예측기반-Word2Vec(CBoW, Skip-Gram, negative sampling), FastText, Glove) : DeepLearning_WordEmbedding.ipynb
 - 로이터 텍스트 데이터 뉴스 카테고리 분류 : DeepLearning_NewsCategory.ipynb
+- Main Quest #9. 머신러닝과 딥러닝 모델 실험하기 : DeepLearning_MainQuest09_NewsCategory.ipynb
 
